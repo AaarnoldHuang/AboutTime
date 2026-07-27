@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">大约是</string>
+    <string name="watch_face_name">大约是</string>
+    <string name="header">大约是</string>
+
+    <!-- Hours -->
+    <string name="h_1">一点</string>
+    <string name="h_2">两点</string>
+    <string name="h_3">三点</string>
+    <string name="h_4">四点</string>
+    <string name="h_5">五点</string>
+    <string name="h_6">六点</string>
+    <string name="h_7">七点</string>
+    <string name="h_8">八点</string>
+    <string name="h_9">九点</string>
+    <string name="h_10">十点</string>
+    <string name="h_11">十一点</string>
+    <string name="h_12">十二点</string>
+
+    <!-- Garmin Phrases Segments -->
+    <string name="phrase_past_soon">刚过了 不久</string>
+    <string name="phrase_past_10">过了 十分</string>
+    <string name="phrase_past_15">过了 十五分</string>
+    <string name="phrase_past_20">过了 二十分</string>
+    <string name="phrase_near_30_pre">快要</string>
+    <string name="phrase_near_30_suf">三十分了</string>
+    <string name="phrase_is_30">三十分</string>
+    <string name="phrase_past_30_soon">三十分 刚过了 不久</string>
+    <string name="phrase_to_20_pre">再二十分 就</string>
+    <string name="phrase_to_15_pre">再十五分 就</string>
+    <string name="phrase_to_10_pre">再十分 就</string>
+    <string name="phrase_near_next_pre">快要</string>
+    <string name="phrase_end_tag">了</string>
+</resources>
